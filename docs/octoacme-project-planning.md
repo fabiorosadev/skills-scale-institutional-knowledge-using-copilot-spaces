@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Confirm involvement of specialty roles (UX Designer, QA Lead, DevOps Engineer, BA) as needed
 
 ## Backlog Item Template
 - Title:
@@ -40,4 +41,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted (QA Lead)
+- [ ] UX designs or prototypes reviewed and linked to relevant backlog items (UX Designer, if applicable)
+- [ ] CI/CD and environment needs identified (DevOps Engineer, if applicable)
+- [ ] Business requirements validated and mapped to acceptance criteria (Business Analyst, if applicable)
